@@ -22,6 +22,14 @@
 
 ---
 
+## Table of Contents
+1. [Hardware Overview](#hardware-overview)
+2. [Specifications](#specifications)
+3. [Extra Functionality](#extra-functionality )
+4. [LCD](#LCD)
+
+---
+
 ## Hardware Overview
 * Microcontroller: DE10-Lite/DE1-SoC 8052 soft processor
 * Amplifier: OP07PC
@@ -52,7 +60,7 @@ personal computer
 * Sound feedback using speaker. Five beeps when the reflow process is
 completed. Ten beeps when there is an error.
 
-## Extra functionality 
+## Extra Functionality 
 
 # Microwave mode
 - has a timer
