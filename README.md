@@ -6,6 +6,10 @@
   <img src="https://github.com/user-attachments/assets/ac8f2d3f-2507-4534-ab78-aa1741534ffd" width="40%">
 </p>
 
+**University of British Columbia — Electrical and Computer Engineering**  
+**Course:** ELEC291/ELEC292  
+**Instructor:** Dr. Jesús Calviño-Fraga  
+
 ---
 
 ## Video Discription of Entire Project:   
