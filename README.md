@@ -62,24 +62,24 @@ completed. Ten beeps when there is an error.
 
 ## Extra Functionality 
 
-# Microwave mode
+### Microwave mode
 - has a timer
 - has different modes for different foods
 - auto ends after timer
 - shows timer on LCD
 - times and temperatures are perfectly aliged to mimic a microwave
-# Keyboard sound mode
+### Keyboard sound mode
 - custom music note characters
 - allows you to make song
-# Two songs you can pick
+### Two songs you can pick
 - 2 fully done songs that will play at the end when its done
 - can chose between them  
-# Python cool graph
+### Python cool graph
 - shows prediction graph by taking in the parameters
 - dynamically resizes based on current temp
 - changes colour the hotter it is
   
-# Discord messaging
+### Discord messaging
 - When the cook cycle elapses, members of the community will be notified on discord, so you can monitor your it from wherever you are
 
 ## LCD
