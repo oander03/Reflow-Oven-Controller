@@ -6,6 +6,18 @@
   <img src="https://github.com/user-attachments/assets/ac8f2d3f-2507-4534-ab78-aa1741534ffd" width="40%">
 </p>
 
+---
+
+## Video Discription of Entire Project:   
+   
+[![Field Detection Robot Video](https://img.youtube.com/watch?v=zQPqsqj1WKY.jpg)](https://www.youtube.com/watch?v=zQPqsqj1WKY)
+
+## Full Documentation Found Here:
+
+https://docs.google.com/document/d/1leqfYqjzB9zKQ_UTSe2Mh5pUl4m0ZX2J0jO5OBIaCuE/edit?usp=sharing
+
+---
+
 ## Hardware Overview
 * Microcontroller: DE10-Lite/DE1-SoC 8052 soft processor
 * Amplifier: OP07PC
