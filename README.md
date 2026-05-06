@@ -1,7 +1,9 @@
 # Reflow Oven Controller
+
+
 <p align="center">
-  <img src="Public/2.jpg" width="40%">
-  <img src="Public/4.jpg" width="40%">
+  <img src="https://github.com/user-attachments/assets/85ba377f-c54f-4f27-bf6f-f3c5654842bc" width="40%">
+  <img src="https://github.com/user-attachments/assets/ac8f2d3f-2507-4534-ab78-aa1741534ffd" width="40%">
 </p>
 
 ## Hardware Overview
