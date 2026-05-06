@@ -10,11 +10,11 @@
 
 ## Video Discription of Entire Project:   
    
-[![Field Detection Robot Video](https://img.youtube.com/watch?v=zQPqsqj1WKY.jpg)](https://www.youtube.com/watch?v=zQPqsqj1WKY)
+[![Robot Project Video](https://img.youtube.com/vi/zQPqsqj1WKY/0.jpg)](https://www.youtube.com/watch?v=zQPqsqj1WKY)
 
 ## Full Documentation Found Here:
 
-https://docs.google.com/document/d/1leqfYqjzB9zKQ_UTSe2Mh5pUl4m0ZX2J0jO5OBIaCuE/edit?usp=sharing
+[https://docs.google.com/document/d/1leqfYqjzB9zKQ_UTSe2Mh5pUl4m0ZX2J0jO5OBIaCuE/edit?usp=sharing](https://docs.google.com/document/d/1PFDLNDIMLwOCruiKcaoNeSyW8B0Yf_5CcdiZVpvq4EE/edit?usp=sharing)
 
 ---
 
